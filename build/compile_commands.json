@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/jvinc/Minesweeper/Sudoku/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -Wall -Wextra -pedantic -g -o CMakeFiles\\minesweeper.dir\\main.cpp.obj -c C:\\Users\\jvinc\\Minesweeper\\Sudoku\\main.cpp",
+  "file": "C:/Users/jvinc/Minesweeper/Sudoku/main.cpp",
+  "output": "CMakeFiles/minesweeper.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/jvinc/Minesweeper/Sudoku/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -Wall -Wextra -pedantic -g -o CMakeFiles\\minesweeper.dir\\Minesweeper.cpp.obj -c C:\\Users\\jvinc\\Minesweeper\\Sudoku\\Minesweeper.cpp",
+  "file": "C:/Users/jvinc/Minesweeper/Sudoku/Minesweeper.cpp",
+  "output": "CMakeFiles/minesweeper.dir/Minesweeper.cpp.obj"
+},
+{
+  "directory": "C:/Users/jvinc/Minesweeper/Sudoku/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -Wall -Wextra -pedantic -g -o CMakeFiles\\minesweeper.dir\\Cell.cpp.obj -c C:\\Users\\jvinc\\Minesweeper\\Sudoku\\Cell.cpp",
+  "file": "C:/Users/jvinc/Minesweeper/Sudoku/Cell.cpp",
+  "output": "CMakeFiles/minesweeper.dir/Cell.cpp.obj"
+}
+]
